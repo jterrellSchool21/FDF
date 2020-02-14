@@ -18,12 +18,22 @@
 
 # define ABS(x) (x >= 0) ? x : x * -1
 
-# define WIN_WID 1000
-# define WIN_HEI 1000
+# define WIN_WID 1920
+# define WIN_HEI 1080
 # define MAX(x, y) (x > y) ? x : y
+# define DX 10
+# define DY 10
 
 #include "libft.h"
 #include "mlx.h"
+
+typedef struct	s_fmap
+{
+	int		color;
+	//int		map[11][19];
+	int		len;
+	int		width;
+}			t_fmap;
 
 typedef struct	s_point
 {
