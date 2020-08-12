@@ -6,7 +6,7 @@
 /*   By: whool199 <whool199@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/08/11 16:42:44 by whool199          #+#    #+#             */
-/*   Updated: 2020/08/12 15:24:23 by whool199         ###   ########.fr       */
+/*   Updated: 2020/08/12 15:57:05 by whool199         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -106,4 +106,5 @@ double				ft_ilerp(double val, double first, double second);
 int					ft_lerpi(int first, int second, double p);
 int					ft_abs(int i);
 int					projection_1(int var, t_mlx *mlx);
+int					check_fdf(char *argv);
 #endif
