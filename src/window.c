@@ -46,5 +46,6 @@ t_mlx		*init(char *title)
 	mlx->cam->scale = 32;
 	mlx->cam->offsetx = WIN_WIDTH / 2;
 	mlx->cam->offsety = WIN_HEIGHT / 2;
+	free(title);
 	return (mlx);
 }

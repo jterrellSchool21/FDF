@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="FDF" targetName="FDF" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5705b98-9106-492f-a795-391fd35b2dc1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/reader.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/reader.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/window.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/window.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1g30CxbL5uwJ9z4COuoHZUUVO80" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FDF" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FDF" TARGET_NAME="FDF" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FDF" RUN_TARGET_NAME="FDF">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5705b98-9106-492f-a795-391fd35b2dc1" name="Default Changelist" comment="" />
+      <created>1597327846879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597327846879</updated>
+      <workItem from="1597327859995" duration="52000" />
+      <workItem from="1597327916704" duration="1854000" />
+      <workItem from="1597330141488" duration="589000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel" timestamp="1597327909359">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel/0.23.2560.1337@0.23.2560.1337" timestamp="1597327909359" />
+    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel" timestamp="1597327909359">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel/0.23.2560.1337@0.23.2560.1337" timestamp="1597327909359" />
+    <state x="661" y="341" key="run.anything.popup" timestamp="1597330211976">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="661" y="341" key="run.anything.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1597330211976" />
+  </component>
+</project>
